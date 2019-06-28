@@ -1,4 +1,11 @@
 # DSS-ChatbotAPI
 
+This api was saves the sentimentscore, responsemessage, usergenerated message and intent to a Mongo Database  
 
-Mongo and Node.JS are required. Run npm install through the terminal to download the necessary files 
+
+## Requirements
+
+Mongo and Node.JS
+
+## Instal
+npm install through the terminal to download the necessary files 
